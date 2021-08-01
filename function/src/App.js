@@ -1,7 +1,8 @@
 export default function App() {
   return (
     <div>
-      <h1>Hello Worlds</h1>
+      <p>FUNCTION</p>
+      <h1>Hello World</h1>
     </div>
   )
 }
